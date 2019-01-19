@@ -1,8 +1,8 @@
 # Python for Machine Learning and Data Science Bootcamp
-## Google Campus - Taught by Venkatesh Tadinada and hosted by Sahil Parekh
-## 2019-01-19
+Google Campus - Taught by Venkatesh Tadinada and hosted by Sahil Parekh
+2019-01-19
 
-### Details
+## Details
 Attendees (100)
 Join us!
 
