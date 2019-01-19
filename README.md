@@ -2,6 +2,7 @@
 Google Campus - Taught by Venkatesh Tadinada and hosted by Sahil Parekh
 
 Dates: Sat & Sun, 2019-01-19, 2019-01-20
+https://www.meetup.com/Hands-On-Machine-Learning/events/257404151/
 
 ## Details
 Attendees (100)
